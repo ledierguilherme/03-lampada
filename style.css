@@ -44,3 +44,13 @@ button {
 img {
     cursor: pointer;
 }
+
+#piscar{
+    
+    background-color: rgb(12, 235, 12);
+}
+
+#pararPiscar{
+
+    background-color: red;
+}
