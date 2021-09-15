@@ -1,9 +1,6 @@
   
 "use strict"
 
-// function getId(elemento) {
-//     return document.getElementById(elemento)
-// }
 
 const getId = (elemento) => document.getElementById(elemento)
 
